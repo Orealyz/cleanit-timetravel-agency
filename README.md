@@ -4,6 +4,12 @@ Webapp moderne et interactive pour une agence de voyage temporel fictive.
 3 destinations : Paris 1889, Crétacé -65M, Florence 1504.  
 Intégration d’un agent conversationnel IA + quiz de recommandation.
 
+URL Webapp :
+https://cleanit-timetravel-agency.vercel.app/
+
+Repository GitHub :
+https://github.com/Orealyz/cleanit-timetravel-agency
+
 ## 👥 Groupe : Cleanit
 - REGUEME Martin
 - LE GUERNIC Nathan
