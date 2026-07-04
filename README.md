@@ -10,12 +10,6 @@ https://cleanit-timetravel-agency.vercel.app/
 Repository GitHub :
 https://github.com/Orealyz/cleanit-timetravel-agency
 
-## 👥 Groupe : Cleanit
-- REGUEME Martin
-- LE GUERNIC Nathan
-- MILANESE Alexandre
-- WADIN Simon
-
 ## 🛠️ Stack Technique
 - React + Vite + TypeScript
 - Tailwind CSS
